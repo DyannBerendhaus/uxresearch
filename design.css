@@ -313,7 +313,7 @@ header > .headercontainer {
     margin-right: auto;
 }
 
-.cardbimg1, .cardbimg2, .cardbimg3, .cardbimg4, .cardbimg5 {
+.cardbimg1, .cardbimg2, .cardbimg3, .cardbimg4, .cardbimg5, .cardbimg6, .cardbimg7, .cardbimg8 {
     height: 40vh;
     border-radius: 25px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -369,7 +369,7 @@ header > .headercontainer {
     transition-duration: 0.4s, 0.4s ;
 }
 
-.cardbimg1 > p, .cardbimg2 > p, .cardbimg3 > p, .cardbimg4 > p, .cardbimg5 > p{
+.cardbimg1 > p, .cardbimg2 > p, .cardbimg3 > p, .cardbimg4 > p, .cardbimg5 > p, .cardbimg6 > p, .cardbimg7 > p, .cardbimg8 > p{
     font-size: 12px;
 }
 
